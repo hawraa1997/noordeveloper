@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/noordeveloper/static/css/main.29e9f1b2.css",
+    "main.js": "/noordeveloper/static/js/main.e97cd930.js",
+    "static/js/787.33f20b9b.chunk.js": "/noordeveloper/static/js/787.33f20b9b.chunk.js",
+    "static/media/woman8.png": "/noordeveloper/static/media/woman8.ac0a8f53b06847b3429e.png",
+    "static/media/woman.jpg": "/noordeveloper/static/media/woman.d5456d01bdd44d7da2c9.jpg",
+    "static/media/man30.jpg": "/noordeveloper/static/media/man30.d188470130416a0ab992.jpg",
+    "static/media/man.jpg": "/noordeveloper/static/media/man.f33746dfc2cbc3a574ee.jpg",
+    "index.html": "/noordeveloper/index.html",
+    "main.29e9f1b2.css.map": "/noordeveloper/static/css/main.29e9f1b2.css.map",
+    "main.e97cd930.js.map": "/noordeveloper/static/js/main.e97cd930.js.map",
+    "787.33f20b9b.chunk.js.map": "/noordeveloper/static/js/787.33f20b9b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29e9f1b2.css",
+    "static/js/main.e97cd930.js"
+  ]
+}
